@@ -5084,6 +5084,10 @@ body {
     .images-left img {
         float: left
     }
+    .blog {
+        margin-left: 0;
+        width: 40%;
+    }
 }
 
 .project-link {
@@ -5110,6 +5114,39 @@ body {
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
 
+.blog {
+    margin: 0px auto;
+    text-align: center;
+    display: block;
+}
+
+
+.blog-link {
+    display: inline-block;
+    position: relative;
+    left: 44%;
+    width: 100px;
+    margin: 0;
+    padding: 5px;
+    color: #1a222c;
+    background-color: transparent;
+    border: 1px solid #1a222c;
+    border-radius: 10px;
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color .3s ease-out, background-color .3s ease-out, border-color .3s ease-out;
+}
+
+.blog-link:active,
+.blog-link:hover {
+    background-color: #9c99af;
+    border-color: #9c99af;
+    color: #fff;
+    transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
+}
+
 .footer {
     background: #000000;
     padding: 10px 0;
@@ -5126,8 +5163,4 @@ body {
     text-decoration: none;
     margin: 0;
     color: #fff
-}
-
-.blog {
-    text-align: center;
 }
