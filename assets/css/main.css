@@ -4980,6 +4980,19 @@ sup {
     }
 }
 
+
+#blog {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 960px
+}
+
+@media only screen and (min-width:550px) {
+    #blog {
+        width: 80%
+    }
+}
+
 .tech {
     margin: 10px
 }
@@ -5113,4 +5126,8 @@ body {
     text-decoration: none;
     margin: 0;
     color: #fff
+}
+
+.blog {
+    text-align: center;
 }

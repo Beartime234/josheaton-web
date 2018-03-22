@@ -6,7 +6,10 @@ description: Josh Eaton's personal site. AWS Python and Ansible enthusiast.
 
 # User settings
 username: Josh Eaton
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: I am an avid enthusiast of all things Cloud. I am heavily experienced with AWS and Google Cloud. My focus as A Cloud Engineer was scripting and developing Infrastructure as code using languages and tools/languages such as Python, Terraform, Ansible, Packer, NodeJS and PHP.
+tech_1: As a Cloud Engineer I built systems from large production websites to streaming services. I work with Terraform, Packer and Cloudformation to deliver infrastructure as code.
+tech_2: I love writing Python code and constantly write scripts for automating cloud proccesses. I also sometimes devlop simple websites and or services using PHP or NodeJS.
+tech_3: I use a wide variety tools such as Git, Ansible and Puppet for automation and version control. I work with all major operating systems but spend most of my time with Linux.
 user_title: Cloud Engineer
 email: josheatonis234@gmail.com
 twitter_username: beartime234
