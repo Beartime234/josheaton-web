@@ -5086,7 +5086,9 @@ body {
     }
     .blog {
         margin-left: 0;
-        width: 40%;
+    }
+    .blog-link {
+        left: 0%;
     }
 }
 
