@@ -16,4 +16,4 @@ twitter_username: beartime234
 github_username:  beartime234
 linkedin_username:  josh-eaton
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'src' , 'node_modules', 'LICENSE.txt', "gulpfile.js", "particle.jpg", "README.md", "yarn.lock", "update-site.sh"]
