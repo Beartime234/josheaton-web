@@ -2,6 +2,27 @@
   <h1> Featured Projects </h1>
 </div>
 <div class="user-projects">
+  <div class="images-left">
+    <img alt="Who's That Pokemon" src="{{ "/assets/img/whos-that-pokemon.png" | prepend: site.baseurl }}" />
+  </div>
+  <div class="contents-right">
+    <h3>Who's That Pokémon</h3>
+    <ul>
+      <li>ReactJS</li>
+      <li>Go</li>
+      <li>Python</li>
+      <li>CircleCI</li>
+      <li>AWS</li>
+      <li>Serverless</li>
+    </ul>
+    <p>This is a full stack website game created with a fully accessible API. You play the game based on the old Pokemon TV show
+    where you guess what the Pokemon's name is based of its silhouette. The frontend is written in React and hosted on S3.
+      The backend is a Golang Serverless API. The pokemon image gallery is created by a Python script which creates the silhouette images
+      and stores them in a NoSQL table.</p>
+    <a class="project-link" href="https://whosthatpokemon.xyz">View Site</a>
+  </div>
+</div>
+<div class="user-projects">
   <div class="images-right">
     <img alt="pokequiz" src="{{ "/assets/img/pokequiz.png" | prepend: site.baseurl }}" style="padding-top:10%;" />
   </div>
