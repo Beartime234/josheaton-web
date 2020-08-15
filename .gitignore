@@ -4,3 +4,4 @@ node_modules
 .DS_STORE
 update-site.sh
 .idea
+.jekyll-cache
