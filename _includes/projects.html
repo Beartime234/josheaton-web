@@ -2,27 +2,6 @@
   <h1> Featured Projects </h1>
 </div>
 <div class="user-projects">
-  <div class="images-left">
-    <img alt="Who's That Pokemon" src="{{ "/assets/img/whos_that_pokemon.png" | prepend: site.baseurl }}" />
-  </div>
-  <div class="contents-right">
-    <h3>Who's That Pokémon</h3>
-    <ul>
-      <li>ReactJS</li>
-      <li>Go</li>
-      <li>Python</li>
-      <li>CircleCI</li>
-      <li>AWS</li>
-      <li>Serverless</li>
-    </ul>
-    <p>This is a full stack website game created with a fully accessible API. You play the game based on the old Pokemon TV show
-    where you guess what the Pokemon's name is based of its silhouette. The frontend is written in React and hosted on S3.
-      The backend is a Golang Serverless API. The pokemon image gallery is created by a Python script which creates the silhouette images
-      and stores them in a NoSQL table.</p>
-    <a class="project-link" href="https://whosthatpokemon.xyz">View Site</a>
-  </div>
-</div>
-<div class="user-projects">
   <div class="images-right">
     <img alt="lil.sh" src="{{ "/assets/img/lilsh.png" | prepend: site.baseurl }}" style="padding-top:10%;" />
   </div>
@@ -38,7 +17,50 @@
   </div>
 </div>
 <div class="user-projects">
+  <div class="images-left">
+    <img alt="Pokemon Rock Paper Scissors" src="{{ "/assets/img/pokemonrps.png" | prepend: site.baseurl }}" />
+  </div>
+  <div class="contents-right">
+    <h3>Pokemon Rock Paper Scissors</h3>
+    <ul>
+      <li>Go</li>
+      <li>Websockets</li>
+      <li>Multiplayer</li>
+      <li>AWS</li>
+      <li>Serverless</li>
+      <li>ReactJS</li>
+    </ul>
+    <p>This is a fun multiplayer game that you can play with your friends. I wanted to build this to learn the architecture/design of how you would build a multiplayer game.
+      This game allows you to play a Pokemon Variant of Rock Paper Scissors with your friend by sending them a link. The game uses AWS API Gateway websockets to provide a real time
+      playing experience and is a great way to resolve small decisions quickly!
+    </p>
+    <a class="project-link" href="https://whosthatpokemon.xyz">View Site</a>
+  </div>
+</div>
+<div class="user-projects">
   <div class="images-right">
+    <img alt="Who's That Pokemon" src="{{ "/assets/img/whos_that_pokemon.png" | prepend: site.baseurl }}" />
+  </div>
+  <div class="contents-right">
+    <h3>Who's That Pokémon</h3>
+    <ul>
+      <li>ReactJS</li>
+      <li>Go</li>
+      <li>Python</li>
+      <li>CircleCI</li>
+      <li>AWS</li>
+      <li>Serverless</li>
+    </ul>
+    <p>This is a full stack website game created with a fully accessible API. You play the game based on the old Pokemon TV show
+      where you guess what the Pokemon's name is based of its silhouette. The frontend is written in React and hosted on S3.
+      The backend is a Golang Serverless API. The pokemon image gallery is created by a Python script which creates the silhouette images
+      and stores them in a NoSQL table.</p>
+    <a class="project-link" href="https://whosthatpokemon.xyz">View Site</a>
+  </div>
+</div>
+
+<div class="user-projects">
+  <div class="images-left">
     <img alt="pokequiz" src="{{ "/assets/img/pokequiz.png" | prepend: site.baseurl }}" style="padding-top:10%;" />
   </div>
   <div class="contents">
@@ -54,7 +76,7 @@
   </div>
 </div>
 <div class="user-projects">
-  <div class="images-left">
+  <div class="images-right">
     <img alt="Website Example" src="{{ "/assets/img/site.png" | prepend: site.baseurl }}" />
   </div>
   <div class="contents-right">
@@ -68,7 +90,7 @@
   </div>
 </div>
 <div class="user-projects">
-  <div class="images-right">
+  <div class="images-left">
     <img alt="aws-mfa-entity-already-exists-fix" src="{{ "/assets/img/fixed.gif" | prepend: site.baseurl }}" style="padding-top:10%;" />
   </div>
   <div class="contents">

@@ -1,16 +1,16 @@
 # Site settings
 title: Josh Eaton
-description: Josh Eaton's personal site. AWS and Python enthusiast.
+description: Josh Eaton's personal site. AWS, Python and Go enthusiast.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Josh Eaton
-user_description: I am an experienced Cloud Engineer and DevOps engineer currently working for Air New Zealand.
-tech_1: My primary skill is building highly avaliable production grade cloud systems which support highly variable workloads and millions of users daily. I have done this mostly in AWS but am proficient in GCP aswell.
+user_description: I am an experienced DevOps Engineer currently working for Xero as A Security Engineer.
+tech_1: My primary skill is Cloud. I am most skilled in AWS but am familar and have done work with Azure and GCP. I have 5 AWS Certifications and 1 Google Certification.
 tech_2: I am also a very experienced software engineer and was responsible for developing many internal tools focused around security of public and private clouds using Languages such as Python, Go, and Javascript.
-tech_3: I use a wide variety tools to support my such as Git, Ansible, Terraform and Cloudformation for automation, infrastructure and version control.
-user_title: Cloud Engineer
+tech_3: I use a wide variety tools to support my such as Git, Ansible, Terraform and Cloudformation for automation, infrastructure and version control. With heavy used in CICD systems.
+user_title: DevOps Engineer
 email: josheatonis234@gmail.com
 twitter_username: beartime234
 github_username:  beartime234
