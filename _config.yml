@@ -6,11 +6,11 @@ description: Josh Eaton's personal site. AWS, Python and Go enthusiast.
 
 # User settings
 username: Josh Eaton
-user_description: I am an experienced DevOps Engineer currently working for Xero as A Security Engineer.
-tech_1: My primary skill is Cloud. I am most skilled in AWS but am familar and have done work with Azure and GCP. I have 5 AWS Certifications and 1 Google Certification.
-tech_2: I am also a very experienced software engineer and was responsible for developing many internal tools focused around security of public and private clouds using Languages such as Python, Go, and Javascript.
+user_description: I am an experienced Python Engineer currently working for Xero as A Senior Security Engineer.
+tech_1: My primary skill is Python and Cloud. I am most skilled in AWS but am familar and have done work with Azure and GCP. I have 5 AWS Certifications and 1 Google Certification.
+tech_2: I am also a very experienced software engineer and was responsible for developing many internal and external distributed systems tools built using Languages such as Python, Go, and Javascript.
 tech_3: I use a wide variety tools to support my such as Git, Ansible, Terraform and Cloudformation for automation, infrastructure and version control. With heavy used in CICD systems.
-user_title: DevOps/Security Engineer
+user_title: Software Engineer
 email: josheatonis234@gmail.com
 twitter_username: beartime234
 github_username:  beartime234
