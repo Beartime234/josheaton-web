@@ -1,16 +1,16 @@
 # Site settings
 title: Josh Eaton
-description: Josh Eaton's personal site. AWS, Python and Go enthusiast.
+description: Josh Eaton's personal site. AWS, Python and Security expert.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Josh Eaton
-user_description: I am an experienced Python Engineer currently working for Xero as A Senior Security Engineer.
-tech_1: My primary skill is Python, Cloud and Security. I am most skilled in AWS but am familar and have done work with Azure and GCP. I have 5 AWS Certifications and 1 Google Certification.
-tech_2: I am also a very experienced software engineer and was responsible for developing many internal and external distributed systems tools built using Languages such as Python, Go, and Javascript.
-tech_3: I use a wide variety tools to support my such as Git, Ansible, Terraform and Cloudformation for automation, infrastructure and version control. With heavy used in CICD systems.
-user_title: Security Engineer
+user_description: An expert in Cloud Security and Software engineering in Python.
+tech_1: I have 7+ years experience building Cloud based systems. I have professional experience in AWS, Azure and Google Cloud. I have achieved 5 AWS Certifications and a Google Cloud Engineering Certification.
+tech_2: I am an expert in Python. I love writing Python code and enjoying learning and improving my knowledge daily. I have also used Go, Rust and Javascript in a professional setting and enjoy building with those platforms.
+tech_3: I have spent 5 years being a security engineer. Developing solutions using SIEM and SOAR and producing cloud based security and detection solutions. I have also been solely responsible for achieving SOC2 Type 2 certification for a startup.
+user_title: Python, Cloud and Security Expert.
 email: josheatonis234@gmail.com
 twitter_username: beartime234
 github_username:  beartime234
